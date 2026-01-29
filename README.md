@@ -104,6 +104,15 @@ The system processes video frames sequentially:
 This simulates an industrial camera pipeline.
 
 ---
+## 🎥 Real-Time Inspection Demo
+
+This video shows VisionSpec QC running on a live video feed and performing real-time PCB defect classification.
+
+- Green label → **PASS**
+- Red label → **DEFECT**
+- Confidence score displayed for each frame
+
+[▶️ Click here to watch the real-time demo](assets/realtime_demo.mp4)
 
 ## 🎯 Internship Relevance
 

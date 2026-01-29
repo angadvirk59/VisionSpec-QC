@@ -82,6 +82,13 @@ Due to size limitations, the dataset and trained model are **not uploaded direct
 
 Grad-CAM visualizations highlight the regions that influenced the model’s decision.
 This confirms that the system focuses on **solder joints and components**, not background noise, making it suitable for real-world quality control.
+### 🔥 Sample Grad-CAM Output
+
+The heatmap below highlights the region of the PCB that influenced the model’s decision.
+This confirms that the system focuses on solder joints and component areas rather than background noise.
+
+![Grad-CAM Sample](assets/gradcam_sample.png)
+
 
 ---
 
